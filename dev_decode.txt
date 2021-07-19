@@ -1,0 +1,150 @@
+SYS: youre.xpenses.b.othintown.and.country.must.certainly.beconsiderable.but.yourincome.isalarge.one
+GOLD: your.expenses.both.in.town.and.country.must.certainly.be.considerable.but.your.income.is.a.large.one
+
+SYS: had.youseen.his.look.his.mannerhadyou.heard.his.voice.at.that.moment
+GOLD: had.you.seen.his.look.his.manner.had.you.heard.his.voice.at.that.moment
+
+SYS: i.hope.youthink.l.ouisa.perfectly.recovered.now
+GOLD: i.hope.you.think.louisa.perfectly.recovered.now
+
+SYS: anne.have.you.courage.to.go.with.meand.pay.av.isitin.thathouse
+GOLD: anne.have.you.courage.to.go.with.me.and.pay.a.visit.in.that.house
+
+SYS: he.isthecurate.of.thepar.ishid.aresay
+GOLD: he.is.the.curate.of.the.parish.i.dare.say
+
+SYS: a.morningof.thor.ough.confusion.wastobe.e.xpected
+GOLD: a.morning.of.thorough.confusion.was.to.be.expected
+
+SYS: when.the.crofts.called.this.morning.they.called.hereafter.wards.did.not.they
+GOLD: when.the.crofts.called.this.morning.they.called.here.afterwards.did.not.they
+
+SYS: marianne.wasinevery.respect.materi.ally.better.and.hedeclared.herentirelyoutof.d.anger
+GOLD: marianne.was.in.every.respect.materially.better.and.he.declared.her.entirely.out.of.danger
+
+SYS: what.mag.nificen.torders.would.travel.from.thisf.amily.to.london.saidedwardin.suchanevent
+GOLD: what.magnificent.orders.would.travel.from.this.family.to.london.said.edward.in.such.an.event
+
+SYS: her.power.with.him.was.gone.forever
+GOLD: her.power.with.him.was.gone.for.ever
+
+SYS: yes.dear.ma.am.saidmrs.crof.toran.u.ncertainengagementanengagement.which.may.belong
+GOLD: yes.dear.ma.am.said.mrs.croft.or.an.uncertain.engagement.an.engagement.which.may.be.long
+
+SYS: in.such.moments.anne.had.no.powerof.saying.to.herself.theseroom.s.ought.to.belongonly.tous
+GOLD: in.such.moments.anne.had.no.power.of.saying.to.herself.these.rooms.ought.to.belong.only.to.us
+
+SYS: on.suchas.ubject.sighingheavily.cani.have.littletemptation.tobediffuse
+GOLD: on.such.a.subject.sighing.heavily.can.i.have.little.temptation.to.be.diffuse
+
+SYS: colonel.b.randon.ithink.lodges.inst.j.ames.street.said.he.soonafter.wards.r.ising.from.hischair
+GOLD: colonel.brandon.i.think.lodges.in.st.james.street.said.he.soon.afterwards.rising.from.his.chair
+
+SYS: here.is.some.mistakei.am.suresomed.readful.mistake
+GOLD: here.is.some.mistake.i.am.sure.some.dreadful.mistake
+
+SYS: just.the.kindof.gir.lishould.s.uppose.likely.to.captivate.pooredward
+GOLD: just.the.kind.of.girl.i.should.suppose.likely.to.captivate.poor.edward
+
+SYS: mrs.clay.was.very.pleasantand.verys.miling.buther.courtesies.ands.miles.weremorea.matterof.course
+GOLD: mrs.clay.was.very.pleasant.and.very.smiling.but.her.courtesies.and.smiles.were.more.a.matter.of.course
+
+SYS: buti.havenorigh.t.andi.could.haveno.chance.of.s.ucceeding
+GOLD: but.i.have.no.right.and.i.could.have.no.chance.of.succeeding
+
+SYS: i.wassure.that.would.come.outif.it.wasso
+GOLD: i.was.sure.that.would.come.out.if.it.was.so
+
+SYS: e.linortold.him.then.umberof.the.h.ouse
+GOLD: elinor.told.him.the.number.of.the.house
+
+SYS: i.would.not.ask.sucha.question.forthe.world
+GOLD: i.would.not.ask.such.a.question.for.the.world
+
+SYS: willoughby.where.was.your.heart.when.you.w.rote.those.words
+GOLD: willoughby.where.was.your.heart.when.you.wrote.those.words
+
+SYS: well.sir.saidmrs.jennings.and.how.di.ditend
+GOLD: well.sir.said.mrs.jennings.and.how.did.it.end
+
+SYS: ithas.beeninvoluntary.andi.will.notencourage.it
+GOLD: it.has.been.involuntary.and.i.will.not.encourage.it
+
+SYS: ithought.the.m.particularly.pleasingandi.willanswer.forit.they.would.generally.please
+GOLD: i.thought.them.particularly.pleasing.and.i.will.answer.for.it.they.would.generally.please
+
+SYS: indeed.answeredelinori.havenot.forgotten.it
+GOLD: indeed.answered.elinor.i.have.not.forgotten.it
+
+SYS: there.was.not.ri.umph.nop.itiful.t.ri.ump.hin.his.manner
+GOLD: there.was.no.triumph.no.pitiful.triumph.in.his.manner
+
+SYS: as.for.herself.she.might.always.commanda.h.ome.with.lady.r.ussell
+GOLD: as.for.herself.she.might.always.command.a.home.with.lady.russell
+
+SYS: with.whatindignation.sucha.letter.asthis.must.beread.by.miss.d.ashwood.may.be.i.magined
+GOLD: with.what.indignation.such.a.letter.as.this.must.be.read.by.miss.dashwood.may.be.imagined
+
+SYS: i.must.go.and.comfort.mama
+GOLD: i.must.go.and.comfort.mama
+
+SYS: they.wanted.him.tomakea.f.inefigure.in.the.worldin.some.manner.or.other
+GOLD: they.wanted.him.to.make.a.fine.figure.in.the.world.in.some.manner.or.other
+
+SYS: but.then.if.mrs.d.ashwood.should.live.fifteenyears.we.shall.becompletely.takenin
+GOLD: but.then.if.mrs.dashwood.should.live.fifteen.years.we.shall.be.completely.taken.in
+
+SYS: norlandisa.pro.digious.bea.utiful.place.is.not.it
+GOLD: norland.is.a.prodigious.beautiful.place.is.not.it
+
+SYS: could.not.be.a.bettert.imesir.walter.for.havinga.choice.oftenants.very.responsibletenants
+GOLD: could.not.be.a.better.time.sir.walter.for.having.a.choice.of.tenants.very.responsible.tenants
+
+SYS: i.am.not.particularly.disposed.tof.avouratenant
+GOLD: i.am.not.particularly.disposed.to.favour.a.tenant
+
+SYS: i.cannot.conceive.as.ituation.morede.plor.able
+GOLD: i.cannot.conceive.a.situation.more.deplorable
+
+SYS: aymy.deari.ll.warrant.you.wedo
+GOLD: ay.my.dear.i.ll.warrant.you.we.do
+
+SYS: it.will.not.bein.my.power.to.a.ccept.their.invitation.if.they.do
+GOLD: it.will.not.be.in.my.power.to.accept.their.invitation.if.they.do
+
+SYS: wenever.canexpect.to.prove.anything.u.pon.sucha.point
+GOLD: we.never.can.expect.to.prove.any.thing.upon.such.a.point
+
+SYS: shethough.tof.whathad.just.passed.withanxiety.and.distrust
+GOLD: she.thought.of.what.had.just.passed.with.anxiety.and.distrust
+
+SYS: it.must.be.s.omethingextra.ordinarythat.could.make.colonel.b.randon.leavemy.b.reakfast.t.ableso.suddenly
+GOLD: it.must.be.something.extraordinary.that.could.make.colonel.brandon.leave.my.breakfast.table.so.suddenly
+
+SYS: when.pe.ople.come.in.this.manner.on.p.urpose.to.ask.ushow.canonesay.no
+GOLD: when.people.come.in.this.manner.on.purpose.to.ask.us.how.can.one.say.no
+
+SYS: b.randon.will.be.jealousif.shedoes.nottake.care
+GOLD: brandon.will.be.jealous.if.she.does.not.take.care
+
+SYS: i.must.nottell.ma.am
+GOLD: i.must.not.tell.ma.am
+
+SYS: she.hates.whisti.know.but.istherenor.ound.game.she.cares.for
+GOLD: she.hates.whist.i.know.but.is.there.no.round.game.she.cares.for
+
+SYS: come.comethis.is.allane.ffusionof.immediate.wan.tof.s.piritsedward
+GOLD: come.come.this.is.all.an.effusion.of.immediate.want.of.spirits.edward
+
+SYS: ithad.been.weakness.and.timidity
+GOLD: it.had.been.weakness.and.timidity
+
+SYS: this.para.grap.h.wasof.some.importance.to.the.prospects.and.conduc.tofedward
+GOLD: this.paragraph.was.of.some.importance.to.the.prospects.and.conduct.of.edward
+
+SYS: i.hardly.know.replied.captain.wentworth.s.urprised
+GOLD: i.hardly.know.replied.captain.wentworth.surprised
+
+SYS: willoughby.may.u.ndoubtedly.have.verysufficient.reasons.for.hisconductandi.will.hope.thathe.has
+GOLD: willoughby.may.undoubtedly.have.very.sufficient.reasons.for.his.conduct.and.i.will.hope.that.he.has
+

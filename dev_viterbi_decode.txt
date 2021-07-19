@@ -1,0 +1,150 @@
+SYS: your.expense.s.bothintow.nan.dcountr.ymus.tcertainl.ybeconsiderabl.ebu.tyourincom.eisalarg.eon.e
+GOLD: your.expenses.both.in.town.and.country.must.certainly.be.considerable.but.your.income.is.a.large.one
+
+SYS: ha.dyousee.nhi.sloo.khi.smannerhadyo.uhear.dhi.svoic.ea.ttha.tmomen.t
+GOLD: had.you.seen.his.look.his.manner.had.you.heard.his.voice.at.that.moment
+
+SYS: .ihop.eyouthin.k.louis.aperfectl.yrecovere.dno.w
+GOLD: i.hope.you.think.louisa.perfectly.recovered.now
+
+SYS: ann.ehav.eyo.ucourag.et.og.owit.hmean.dpa.ya.visiti.nthathous.e
+GOLD: anne.have.you.courage.to.go.with.me.and.pay.a.visit.in.that.house
+
+SYS: h.eisthecurat.eo.fthepa.rishi.daresa.y
+GOLD: he.is.the.curate.of.the.parish.i.dare.say
+
+SYS: .amorningo.ftho.roug.hconfusio.nwastob.e.expecte.d
+GOLD: a.morning.of.thorough.confusion.was.to.be.expected
+
+SYS: whe.nth.ecroft.scalle.dthi.smornin.gthe.ycalle.dhereafte.rward.sdi.dno.tthe.y
+GOLD: when.the.crofts.called.this.morning.they.called.here.afterwards.did.not.they
+
+SYS: mariann.ewasinever.yrespec.tmater.iall.ybette.ran.dhedeclare.dherentirelyouto.f.dange.r
+GOLD: marianne.was.in.every.respect.materially.better.and.he.declared.her.entirely.out.of.danger
+
+SYS: wha.tma.gnifice.ntorder.swoul.dtrave.lfro.mthis.famil.yt.olondo.nsaidedwardi.nsuchaneven.t
+GOLD: what.magnificent.orders.would.travel.from.this.family.to.london.said.edward.in.such.an.event
+
+SYS: he.rpowe.rwit.hhi.mwa.sgon.eforeve.r
+GOLD: her.power.with.him.was.gone.for.ever
+
+SYS: ye.sdea.rm.aa.msaidmr.scro.ftora.n.uncertainengagementanengagemen.twhic.hma.ybelon.g
+GOLD: yes.dear.ma.am.said.mrs.croft.or.an.uncertain.engagement.an.engagement.which.may.be.long
+
+SYS: i.nsuc.hmoment.sann.eha.dn.opowero.fsayin.gt.ohersel.ftheseroo.m.sough.tt.obelongonl.ytou.s
+GOLD: in.such.moments.anne.had.no.power.of.saying.to.herself.these.rooms.ought.to.belong.only.to.us
+
+SYS: o.nsucha.subjec.tsighingheavil.ycan.ihav.elittletemptatio.ntobediffus.e
+GOLD: on.such.a.subject.sighing.heavily.can.i.have.little.temptation.to.be.diffuse
+
+SYS: colone.l.brando.nithin.klodge.sins.t.jame.sstree.tsai.dh.esoonafte.rward.s.risin.gfro.mhischai.r
+GOLD: colonel.brandon.i.think.lodges.in.st.james.street.said.he.soon.afterwards.rising.from.his.chair
+
+SYS: her.ei.ssom.emistake.ia.msuresome.dreadfu.lmistak.e
+GOLD: here.is.some.mistake.i.am.sure.some.dreadful.mistake
+
+SYS: jus.tth.ekindo.fgi.rlishoul.d.suppos.elikel.yt.ocaptivat.epooredwar.d
+GOLD: just.the.kind.of.girl.i.should.suppose.likely.to.captivate.poor.edward
+
+SYS: mr.scla.ywa.sver.ypleasantan.dvery.smilin.gbuthe.rcourtesie.sand.smile.sweremore.amattero.fcours.e
+GOLD: mrs.clay.was.very.pleasant.and.very.smiling.but.her.courtesies.and.smiles.were.more.a.matter.of.course
+
+SYS: but.ihavenorig.h.tand.icoul.dhaven.ochanc.eo.f.succeedin.g
+GOLD: but.i.have.no.right.and.i.could.have.no.chance.of.succeeding
+
+SYS: .iwassur.etha.twoul.dcom.eouti.fi.twass.o
+GOLD: i.was.sure.that.would.come.out.if.it.was.so
+
+SYS: .elinortol.dhi.mthe.numbero.fth.e.hous.e
+GOLD: elinor.told.him.the.number.of.the.house
+
+SYS: .iwoul.dno.tas.ksuch.aquestio.nforth.eworl.d
+GOLD: i.would.not.ask.such.a.question.for.the.world
+
+SYS: willoughb.ywher.ewa.syou.rhear.twhe.nyo.u.wrot.ethos.eword.s
+GOLD: willoughby.where.was.your.heart.when.you.wrote.those.words
+
+SYS: wel.lsi.rsaidmr.sjenning.san.dho.wd.iditen.d
+GOLD: well.sir.said.mrs.jennings.and.how.did.it.end
+
+SYS: itha.sbeeninvoluntar.yand.iwil.lnotencourag.ei.t
+GOLD: it.has.been.involuntary.and.i.will.not.encourage.it
+
+SYS: ithough.tth.e.mparticularl.ypleasingand.iwillanswe.rfori.tthe.ywoul.dgenerall.ypleas.e
+GOLD: i.thought.them.particularly.pleasing.and.i.will.answer.for.it.they.would.generally.please
+
+SYS: indee.dansweredelinor.ihaveno.tforgotte.ni.t
+GOLD: indeed.answered.elinor.i.have.not.forgotten.it
+
+SYS: ther.ewa.sno.tr.iump.hno.pitifu.l.tr.ium.phi.nhi.smanne.r
+GOLD: there.was.no.triumph.no.pitiful.triumph.in.his.manner
+
+SYS: a.sfo.rhersel.fsh.emigh.talway.scommand.a.hom.ewit.hlad.y.russel.l
+GOLD: as.for.herself.she.might.always.command.a.home.with.lady.russell
+
+SYS: wit.hwhatindignatio.nsuch.alette.rasthi.smus.tberea.db.ymis.s.dashwoo.dma.yb.e.imagine.d
+GOLD: with.what.indignation.such.a.letter.as.this.must.be.read.by.miss.dashwood.may.be.imagined
+
+SYS: .imus.tg.oan.dcomfor.tmam.a
+GOLD: i.must.go.and.comfort.mama
+
+SYS: the.ywante.dhi.mtomake.a.finefigur.ei.nth.eworldi.nsom.emanne.ro.rothe.r
+GOLD: they.wanted.him.to.make.a.fine.figure.in.the.world.in.some.manner.or.other
+
+SYS: bu.tthe.ni.fmr.s.dashwoo.dshoul.dliv.efifteenyear.sw.eshal.lbecompletel.ytakeni.n
+GOLD: but.then.if.mrs.dashwood.should.live.fifteen.years.we.shall.be.completely.taken.in
+
+SYS: norlandis.apr.odigiou.sbe.autifu.lplac.ei.sno.ti.t
+GOLD: norland.is.a.prodigious.beautiful.place.is.not.it
+
+SYS: coul.dno.tb.e.abetter.timesi.rwalte.rfo.rhaving.achoic.eoftenant.sver.yresponsibletenant.s
+GOLD: could.not.be.a.better.time.sir.walter.for.having.a.choice.of.tenants.very.responsible.tenants
+
+SYS: .ia.mno.tparticularl.ydispose.dto.favouratenan.t
+GOLD: i.am.not.particularly.disposed.to.favour.a.tenant
+
+SYS: .icanno.tconceiv.ea.situatio.nmored.eplo.rabl.e
+GOLD: i.cannot.conceive.a.situation.more.deplorable
+
+SYS: aym.ydear.il.lwarran.tyo.uwed.o
+GOLD: ay.my.dear.i.ll.warrant.you.we.do
+
+SYS: i.twil.lno.tbei.nm.ypowe.rt.o.accep.tthei.rinvitatio.ni.fthe.yd.o
+GOLD: it.will.not.be.in.my.power.to.accept.their.invitation.if.they.do
+
+SYS: weneve.rcanexpec.tt.oprov.eanythin.g.upo.nsuch.apoin.t
+GOLD: we.never.can.expect.to.prove.any.thing.upon.such.a.point
+
+SYS: shethoug.hto.fwhatha.djus.tpasse.dwithanxiet.yan.ddistrus.t
+GOLD: she.thought.of.what.had.just.passed.with.anxiety.and.distrust
+
+SYS: i.tmus.tb.e.somethingextr.aordinarytha.tcoul.dmak.ecolone.l.brando.nleavem.y.breakfas.t.tables.osuddenl.y
+GOLD: it.must.be.something.extraordinary.that.could.make.colonel.brandon.leave.my.breakfast.table.so.suddenly
+
+SYS: whe.np.eopl.ecom.ei.nthi.smanne.ro.n.purpos.et.oas.kusho.wcanonesa.yn.o
+GOLD: when.people.come.in.this.manner.on.purpose.to.ask.us.how.can.one.say.no
+
+SYS: .brando.nwil.lb.ejealousi.fshedoe.snottak.ecar.e
+GOLD: brandon.will.be.jealous.if.she.does.not.take.care
+
+SYS: .imus.tnottel.lm.aa.m
+GOLD: i.must.not.tell.ma.am
+
+SYS: sh.ehate.swhist.ikno.wbu.tisthereno.roun.dgam.esh.ecare.sfo.r
+GOLD: she.hates.whist.i.know.but.is.there.no.round.game.she.cares.for
+
+SYS: com.ecomethi.si.sallan.effusiono.fimmediat.ewa.nto.f.spiritsedwar.d
+GOLD: come.come.this.is.all.an.effusion.of.immediate.want.of.spirits.edward
+
+SYS: itha.dbee.nweaknes.san.dtimidit.y
+GOLD: it.had.been.weakness.and.timidity
+
+SYS: thi.spar.agra.p.hwaso.fsom.eimportanc.et.oth.eprospect.san.dcondu.ctofedwar.d
+GOLD: this.paragraph.was.of.some.importance.to.the.prospects.and.conduct.of.edward
+
+SYS: .ihardl.ykno.wreplie.dcaptai.nwentwort.h.surprise.d
+GOLD: i.hardly.know.replied.captain.wentworth.surprised
+
+SYS: willoughb.yma.y.undoubtedl.yhav.everysufficien.treason.sfo.rhisconductand.iwil.lhop.ethath.eha.s
+GOLD: willoughby.may.undoubtedly.have.very.sufficient.reasons.for.his.conduct.and.i.will.hope.that.he.has
+
